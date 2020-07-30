@@ -1,4 +1,4 @@
-package com.lilpeace;
+package com.lilpeace.fotomagics;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package com.lilpeace;
+package com.lilpeace.fotomagics;
 
 public class Main {
 
